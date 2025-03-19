@@ -22,8 +22,8 @@ Yield Recorder is a Streamlit application designed to record and manage cow milk
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Adisauz/Synthia_Areete.git
+   cd Synthia_Areete 
 ## Set up your AWS credentials
 - export AWS_ACCESS_KEY_ID='your-access-key-id'
  -export AWS_SECRET_ACCESS_KEY='your-secret-access-key'
